@@ -73,10 +73,10 @@
 	margin-top: 1%!important;
 }
 .download-link:hover{
-	color: rgba(0, 255, 191, 0.719);
+	color: #21bea4;
 }
 .download-link a:hover{
-	background-color: black;
+	background-color: rgb(255, 255, 255);
 }
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 01 - RESET STYLES */
